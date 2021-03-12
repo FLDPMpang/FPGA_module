@@ -1,0 +1,455 @@
+{
+ "builder": {
+  "_version": "<undefined>",
+  "_logger": "hdl_checker.builders.fallback",
+  "_work_folder": "/home/fldpm/Codes/verilog_module/.hdl_checker",
+  "_builtin_libraries": [],
+  "_added_libraries": [
+   {
+    "name": "default_library",
+    "case_sensitive": false,
+    "__class__": "Identifier"
+   }
+  ],
+  "__class__": "Fallback"
+ },
+ "config_file": [
+  {
+   "name": "/tmp/hdl_checker_project_pid14294.json",
+   "__class__": "Path"
+  },
+  1615269184.4251695,
+  "generated"
+ ],
+ "database": {
+  "sources": [
+   {
+    "path": {
+     "name": "/home/fldpm/Codes/verilog_module/botton.v",
+     "__class__": "Path"
+    },
+    "mtime": 1615270213.598234,
+    "flags": {
+     "source_specific": [],
+     "single": [],
+     "dependencies": []
+    },
+    "dependencies": [],
+    "diags": []
+   }
+  ],
+  "inferred_libraries": [
+   {
+    "name": "/tmp/nvimtrbrlR/tmpw6faqwjh.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpnnr8e7ul.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/home/fldpm/Codes/verilog_module/botton.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpj96udkb_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpuwmgae3j.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpn622s4bx.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpccvfx9ov.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpybvq9xh5.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp7_m6ur30.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpz81sad03.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp1dys2wjy.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmptgx56paa.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpxy1ly1xe.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp7bzodcdv.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp31jdim0n.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpop8u6a1s.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpskj1qw62.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpthxmxmui.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpst8haho_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpzavy9tev.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpgw0rlapx.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp9r5gpj0z.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpozg8t0om.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp6iwzenso.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp_99uulqp.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp6ny1o6ao.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmphqiua15a.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpe5tv1mp0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp04oh8z1p.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpf5654bw2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmppwi7sbpd.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpcm0xmrko.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpwm3d9s_3.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpaaxue2c_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpsntvzo23.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp9rqg7sdi.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmppjj5c9w0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpqd5nolbg.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp78gwdg4k.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpr82ehrvh.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpwbu4mnsc.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpzmvn29b6.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpj6trx0c2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpfoih8ibw.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmplhfso6sc.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp_elkanfg.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmph2dntc6p.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp7exjqyzt.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpkm_47a3t.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpe3u8wpln.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp5zuij7cl.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp4jstbggy.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpzcktcywu.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp5fw7r5_x.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp0bkfphfv.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp_5p7axy8.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpkcsoj8im.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpaj8kpj7l.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpy2vvpdk3.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpyl8xr22t.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp5w8wvipn.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp1hfco78y.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpupbgl6ik.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpec7lypzz.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp8bucay43.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmptttm9pn_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpo_qj75b0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp7lup8w99.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpib9uubz0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmprtw4ieqg.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp_2truuxk.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpa1oeidm1.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpwh55h7ls.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpot_6278m.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpjfrvt8r2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpdqplqn3y.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpxvkbvq13.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpzztv50bt.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmps25wb8_f.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpqoy4h7mv.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpsczu6i57.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpkcb2lune.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpkkak0_ze.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpt_su96c2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpr2ysnlxr.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp05376ubp.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp47s74hjy.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpr2mybib9.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpz8oey61e.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmprhd8tpcz.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpkb6gdix_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp407j5du8.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp7g81zy_8.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmp3o29v5z9.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpumjpljzw.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpu97h62r6.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/nvimtrbrlR/tmpbdlodee5.v",
+    "__class__": "Path"
+   }
+  ],
+  "design_units": [
+   {
+    "owner": {
+     "name": "/home/fldpm/Codes/verilog_module/botton.v",
+     "__class__": "Path"
+    },
+    "type_": "entity",
+    "name": {
+     "name": "Keydebounced",
+     "case_sensitive": true,
+     "__class__": "VerilogIdentifier"
+    },
+    "locations": [
+     [
+      0,
+      6
+     ]
+    ],
+    "__class__": "VerilogDesignUnit"
+   }
+  ],
+  "__class__": "Database"
+ },
+ "__version__": "0.7.2"
+}
